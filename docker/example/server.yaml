@@ -1,0 +1,6 @@
+server:
+  wiki_dir: /app/tw-data
+wiki:
+  - name: test-wiki
+    view_key: view_key
+    write_key: write_key
