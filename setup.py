@@ -5,7 +5,7 @@ with open('README.rst') as f:
 
 setuptools.setup(
     name='tw5_server',
-    version='1.1.0',
+    version='1.1.1',
     author='Abraham',
     author_email='abraham.liu@hotmail.com',
     description='tiddly wiki server',
